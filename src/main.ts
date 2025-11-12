@@ -37,9 +37,8 @@ const CardsInfo: CardInfoT[] = [
     image: './assets/images/illustration-grow-followers.webp',
   },
   {
-    title: 'faster audience growth',
+    title: '<strong>>56%</strong> </br>faster audience growth',
     image: 'public/assets/images/illustration-audience-growth.webp',
-    subtitle: '>56%',
   },
   {
     title: 'Create and schedule content <strong>quicker</strong>.',
